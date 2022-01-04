@@ -12,7 +12,7 @@ I'm a Front-end Web Developer(React.Js) and a Competetive Programmer.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AmitSahoo45&label=Profile%20views&color=0e75b6&style=flat" alt="AmitSahoo45" /> </p>
 
 <img alt= "stats card" height="300px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=AmitSahoo45&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D">
-<img align="right" height="550" width="530" src="./assets/programmer.webp" /> </a>
+<img align="right" height="400" width="300px" src="./assets/programmer.webp" /> </a>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitSahoo45&count_private=true&theme=react&show_icons=true" />
 <br>
 <br>
