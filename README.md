@@ -59,10 +59,10 @@ currently pursuing B.Tech. I'm a Full Stack Web Developer and an ML Enthusiast.
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/DepressedCoder" target="blank">
-<img align="center" src="./assets/twitter.png" height="100" width="100" />
+<img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="100" width="100" />
 </a> 
 <a href="https://www.linkedin.com/in/amit-kumar-sahoo-2b2538200/" target="blank">
-<img align="center" src="./assets/linkedin.png" height="100" width="100" />
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="100" width="100" />
 </a>
 </p>
 
