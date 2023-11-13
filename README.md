@@ -1,17 +1,14 @@
-         <img
-                  src='https://drive.google.com/file/d/1fypBEon_kaCzi7Zp2UDD7NvjuiRsmXja/view?usp=sharing'
-                  raw=true
-                  alt='Subject Pronouns'
-                  style='margin-bottom: 10px;'
-         />
-![GitHub Banner](https://drive.google.com/file/d/1fypBEon_kaCzi7Zp2UDD7NvjuiRsmXja/view?usp=sharing&raw=true "Title")
+![GitHub Banner](https://drive.google.com/file/d/1fypBEon_kaCzi7Zp2UDD7NvjuiRsmXja/view?usp=sharing)
 
-<h1 align="center"><img src="./assets/hello-bubble.gif" 
+<h1 align="center">
+         <img src="./assets/hello-bubble.gif" 
          alt="Waving hand animated gif"
          height="90"
-         width="90" /> I'm Amit Kumar Sahoo</h1>
+         width="90" /> 
+         I'm Amit Kumar Sahoo
+</h1>
 <h4 align="center">
-currently pursuing B.Tech. I'm a Full Stack Web Developer and an ML Enthusiast.
+currently pursuing B.Tech. I'm a Full Stack Web Developer and a Data Analyst.
 </h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AmitSahoo45&label=Profile%20views&color=0e75b6&style=flat" alt="AmitSahoo45" /> </p>
