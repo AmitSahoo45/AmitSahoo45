@@ -1,11 +1,10 @@
-<div>
          <img
                   src='https://drive.google.com/file/d/1fypBEon_kaCzi7Zp2UDD7NvjuiRsmXja/view?usp=sharing'
                   raw=true
                   alt='Subject Pronouns'
                   style='margin-bottom: 10px;'
          />
-</div>
+![GitHub Banner](https://drive.google.com/file/d/1fypBEon_kaCzi7Zp2UDD7NvjuiRsmXja/view?usp=sharing&raw=true "Title")
 
 <h1 align="center"><img src="./assets/hello-bubble.gif" 
          alt="Waving hand animated gif"
