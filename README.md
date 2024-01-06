@@ -8,7 +8,7 @@
          I'm Amit Kumar Sahoo
 </h1>
 <h4 align="center">
-currently pursuing B.Tech. I'm a Software Developer with a pinch of love for Data Analytics.
+I'm a Software Developer with a pinch of love for Data Analytics.
 </h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AmitSahoo45&label=Profile%20views&color=0e75b6&style=flat" alt="AmitSahoo45" /> </p>
