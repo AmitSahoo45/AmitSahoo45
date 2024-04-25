@@ -15,6 +15,13 @@ I'm a Software Developer with a pinch of love for Data Analytics.
 
 <p align="center"><img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitSahoo45&count_private=true&theme=react&show_icons=true" /></p>
 <p align="center"><img alt= "stats card" height="300px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=AmitSahoo45&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D"></p>
+
+<p align="middle"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=amitsahoo45" alt="amitsahoo45" />
+</a>
+</p>
+
 <br>
 <h2 align="center"><u>My skills</u></h2>
 
