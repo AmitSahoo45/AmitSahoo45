@@ -1,4 +1,4 @@
-![GitHub Banner](https://drive.google.com/file/d/1fypBEon_kaCzi7Zp2UDD7NvjuiRsmXja/view?usp=sharing)
+![banner](https://github.com/AmitSahoo45/AmitSahoo45/assets/72258273/faa5a1a1-4118-4d23-92f6-aaefbb980311)
 
 <h1 align="center">
          <img src="./assets/hello-bubble.gif" 
