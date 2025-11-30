@@ -74,9 +74,6 @@ I'm a Software Developer with a pinch of love for Data Analytics.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/DepressedCoder" target="blank">
-<img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="20" width="40" />
-</a> 
 <a href="https://www.linkedin.com/in/amit-kumar-sahoo-web/" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" width="80" />
 </a>
