@@ -65,17 +65,4 @@ MSSQL • PostgreSQL • MongoDB • Redis
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmitSahoo45&count_private=true&theme=react&show_icons=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitSahoo45&layout=compact&theme=react&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitSahoo45&theme=react&hide_border=true" />
-</p>
-
----
-
 <p align="center">💬 Let's connect and build something awesome together!</p>
